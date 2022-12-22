@@ -29,7 +29,7 @@ notes and docstrings.
 and specified z-level (for the latter). The first programme describes the change in potential of the system along any horizontal parallel to the arbitrary x-axis and the second 
 programme does the same but on a plane parallel to the arbitrary xy-plane.
 
-The reader is welcome to download these programmes and can suggest any improvements (if any) for which I will be grateful.
+The reader is welcome to download these programmes and can suggest any improvements (if any) for which I will be grateful (Very old scripts, ignore)
 
 
 
